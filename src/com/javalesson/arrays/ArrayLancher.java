@@ -25,7 +25,9 @@ public class ArrayLancher {
     }
 
     private static int[] sort(int[] array) {
-//        int [] myNewArray = new int [array.length]; / копирование массива примитивный
+
+//      проверка
+//      int [] myNewArray = new int [array.length]; / копирование массива примитивный
 //        for (int i = 0; i < array.length; i++){
 //            myNewArray[i] = array[i];
 //        }
